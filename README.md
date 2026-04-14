@@ -4,6 +4,11 @@
 
 React + TypeScript + Vite 기반으로 만들었고, 짧은 카드 학습과 5문제 퀴즈, XP, streak, 오답 복습, 학습 기록 저장까지 포함한 실행 가능한 MVP입니다.
 
+## 배포 링크
+
+- GitHub: https://github.com/khi6174/ai_teacher
+- Vercel: https://aiteacher-silk.vercel.app
+
 ## 핵심 목표
 
 - 하루 1회 이상 짧게 임베디드 학습하기
